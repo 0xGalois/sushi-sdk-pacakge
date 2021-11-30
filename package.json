@@ -45,7 +45,7 @@
     "@ethersproject/signing-key": "^5.4.0",
     "@ethersproject/solidity": "^5.4.0",
     "@ethersproject/transactions": "^5.4.0",
-    "@sushiswap/core": "^2.0.0-canary.1",
+    "@sushiswap/core": "https://github.com/0xGalois/sushi-core-package",
     "big.js": "^6.1.0",
     "decimal.js-light": "^2.5.0",
     "eip-712": "^0.4.3",
